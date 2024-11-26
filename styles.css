@@ -5,6 +5,11 @@ html {
     background-color: sandybrown;
 }
 
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
 nav.horizontalNav {
 	background: seagreen;
 	width: auto;
